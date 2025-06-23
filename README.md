@@ -36,9 +36,16 @@ The dataset includes **500+ South Korean companies name**
 
 ## 🧱 Project Structure
 company-crawler/
+
 ├── jobkorea_data_crawling_edited.py # Crawls JobKorea using BeautifulSoup
+
 ├── Crawling_Jobplanet_edited.py # Automates JobPlanet with Selenium
+
 ├── craling_news_naver_edited.py # Queries Naver Open API
+
 ├── companies.csv # expected a output dataset file
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # Project documentation
+
