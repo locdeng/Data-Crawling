@@ -32,7 +32,9 @@ The dataset includes **500+ South Korean companies name**
 | `openpyxl`  | Excel file handling                  |
 
 
+---
 
+## 🧱 Project Structure
 company-crawler/
 ├── jobkorea_data_crawling_edited.py # Crawls JobKorea using BeautifulSoup
 ├── Crawling_Jobplanet_edited.py # Automates JobPlanet with Selenium
@@ -40,8 +42,3 @@ company-crawler/
 ├── companies.csv # expected a output dataset file
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
-
----
-
-## 🧱 Project Structure
-
