@@ -9,18 +9,18 @@ The dataset includes **500+ South Korean companies name**
 
 ---
 
-## 📌 Features
+## Features
 
-✅ Scrape company info (name, industry, capital, sale, established day, and CEO) from **JobKorea**  
-✅ Extract employee reviews and ratings from **JobPlanet**  
-✅ Validate and enrich company names using **Naver Open API**  
-✅ Save final dataset to `.csv`   
-✅ Headless browser automation using Selenium  
-✅ Clean and efficient modular code  
+- Scrape company info (name, industry, capital, sale, established day, and CEO) from **JobKorea**  
+- Extract employee reviews and ratings from **JobPlanet**  
+- Validate and enrich company names using **Naver Open API**  
+- Save final dataset to `.csv`   
+- Headless browser automation using Selenium  
+- Clean and efficient modular code  
 
 ---
 
-## 🖥️ Tech Stack
+## Tech Stack
 
 | Tool        | Purpose                              |
 |-------------|--------------------------------------|
@@ -34,7 +34,8 @@ The dataset includes **500+ South Korean companies name**
 
 ---
 
-## 🧱 Project Structure
+## Project Structure
+
 company-crawler/
 
 ├── jobkorea_data_crawling_edited.py # Crawls JobKorea using BeautifulSoup
