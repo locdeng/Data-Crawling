@@ -1,4 +1,4 @@
-# 🏢 Company Data Crawler (JobKorea, JobPlanet, Naver API)
+# Company Data Crawler (JobKorea, JobPlanet, Naver API)
 
 This project collects and processes company information from three sources:  
 - **JobKorea** (using BeautifulSoup)  
